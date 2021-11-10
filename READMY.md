@@ -1,3 +1,5 @@
+lecture-15
+
 Flyway on maven *:
 
 Use " <quote>mvn flyway:migrate " to start migration
@@ -10,9 +12,7 @@ Use " <quote>mvn flyway:clear " to drops all objects in the configured schemas;
 
 or use FlyWayMigration.class
 
-NEW! initSqlAndMigrationFlyway add your string sql command.
-
 My docker repo 
 <quote>https://hub.docker.com/repository/docker/gfintn/my-postgres/general
 
-Start Main class
+Start Tests
